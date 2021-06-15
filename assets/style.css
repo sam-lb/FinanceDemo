@@ -1,0 +1,12 @@
+:root {
+    --bgcolor-prim: #ddeeff;
+}
+
+body {
+    background-color: var(--bgcolor-prim);
+}
+
+h1 {
+    font-weight: normal;
+    text-decoration: underline;
+}
